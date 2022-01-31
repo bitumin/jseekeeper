@@ -1,7 +1,8 @@
 {
-    "name": "JSEE Keeper",
-    "short_name": "JSEE Keeper",
+    "name": "jsee-keeper",
+    "short_name": "jsee-keeper",
     "theme_color": "#342a5b",
+    "background_color": "#342a5b",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
